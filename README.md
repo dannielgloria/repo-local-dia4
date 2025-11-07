@@ -5,7 +5,7 @@
 **negritas** y *cursivas*
 - listas
 
-holacomo estan el dia de hoy people
+hola como estan el dia de hoy people
 
 1. listas numeradas
 
