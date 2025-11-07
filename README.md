@@ -8,8 +8,4 @@
 holacomo estan el dia de hoy people
 
 1. listas numeradas
-`código en línea`
-```bash
-# bloque de código
-ls -la
 
